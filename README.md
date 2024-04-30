@@ -9,7 +9,7 @@ Hi guys! Here is Cátia 🌞
 /* Estilos CSS */
 body {
     background-color: #f0f0f0; /* Cor de fundo */
-    color: #333; /* Cor do texto */
+    color: #DF8908; /* Cor do texto */
     font-family: Arial, sans-serif; /* Fonte */
 }
 </style>
