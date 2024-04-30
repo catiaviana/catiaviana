@@ -5,3 +5,11 @@ Hi guys! Here is Cátia 🌞
 - 💬 Ask me about my work to learn more with you 💡
 - ⚡ Fun fact: I have a bachelor in Biology 🌳🧬
 
+<style>
+/* Estilos CSS */
+body {
+    background-color: #f0f0f0; /* Cor de fundo */
+    color: #333; /* Cor do texto */
+    font-family: Arial, sans-serif; /* Fonte */
+}
+</style>
